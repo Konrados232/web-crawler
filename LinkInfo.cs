@@ -1,0 +1,1 @@
+﻿public record LinkInfo(string adress, int depth);
